@@ -62,10 +62,10 @@
       "1"
     ],
     "accommodationsId": [],
-    "liked": [],
-    "saved": [
+    "liked": [
       "1",
       "2"
-    ]
+    ],
+    "saved": []
   }
 ]

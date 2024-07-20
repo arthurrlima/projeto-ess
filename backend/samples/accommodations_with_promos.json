@@ -1,20 +1,5 @@
 [
   {
-    "id": "10",
-    "nome": "Propriedade 10",
-    "quantidadeQuartos": 4,
-    "lotacaoMaxima": 8,
-    "precoPorNoite": 100,
-    "userId": "123",
-    "ratingsId": [],
-    "finalGrade": null,
-    "desconto": 50,
-    "promoName": "Nova Promoção",
-    "promoId": "10",
-    "data_inicio": "2022-01-01",
-    "data_fim": "2022-01-31"
-  },
-  {
     "id": "11",
     "nome": "Propriedade 4",
     "quantidadeQuartos": 4,
